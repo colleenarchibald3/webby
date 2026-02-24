@@ -1,0 +1,213 @@
+/*i am css*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.masthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  /* border-bottom: 2.5px solid rgb(194, 48, 48); */
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+.container{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+h1 {
+    color: rgb(47, 98, 29);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 31px;
+     padding-bottom: 2rem;
+}
+
+h2{
+    color:rgb(47, 98, 29);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px
+}
+
+h3{
+    color:rgb(47, 98, 29);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    padding-bottom: 1rem
+}
+
+time{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    color: rgb(47, 98, 29);
+}
+
+    body {
+    text-align:center;
+    background-color: rgb(249, 247, 234);
+  }
+
+  .homepageimage img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 8rem;
+  }
+
+  .map1938 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }
+
+  .map1939 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }
+
+  .map1941 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }
+
+  .map1942 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }  
+
+  .map1949 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }  
+
+  .map1961 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }  
+
+  .map1962 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }  
+
+  .map1964 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+
+  .map1970 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+  
+  .map1976 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+
+  .map1978 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }   
+
+  .map1983 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+
+ .map1990 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+  
+  .map2009 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+
+ .map2013 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+
+  .map20132 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }
+  
+  .map2017 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  }
+  
+  .map20172 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
+
+  .map2025 img{
+  width: 70%;
+  height: 70%;
+  vertical-align: middle;
+  object-fit: cover;
+  padding-bottom: 6rem;
+  } 
