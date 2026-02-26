@@ -48,22 +48,22 @@ h1 {
 }
 
 .menu a:hover{
-  color: rgb(60, 96, 29);
+  color: rgb(97, 145, 55);
 }
 
-.park{
+.home{
   display: grid;
   gap: 20px;
   padding: 60px 40px;
   grid-template-columns: 1fr 1fr;
 }
 
-.park-image img{
+.homeimage img{
 width: 80%;
 display: block;
 }
 
-.park-text{
+.home-paragraph{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 16px;
   display: flex;
