@@ -106,7 +106,7 @@ p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-  .homepageimage img{
+  /* .homepageimage img{
   width: 70%;
   height: 70%;
   object-fit: cover;
@@ -139,7 +139,7 @@ p{
   height: 70%;
   object-fit: cover;
   padding-bottom: 6rem;
-  }  
+  }   */
 
 
   body {
