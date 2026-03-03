@@ -8,7 +8,7 @@
 
 .header{
   padding:30px;
-  background-color:rgb(253, 233, 199);
+  background-color:rgb(212, 179, 145);
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
   text-align: center;
   padding-top: 8rem;
@@ -101,116 +101,7 @@ p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-/* h2{
-    color:rgb(104, 139, 54);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 12px
-}
-
-h3{
-    color:rgb(104, 139, 54);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 25px;
-    padding-bottom: 1rem
-} */
-
 
     body {
     background-color: rgb(255, 242, 225);
   }
-
-  /* .homepageimage img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 8rem;
-  }
-
-  .map1983 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }
-
-  .map2012 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }
-
-  .map20122 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }
-
-  .map2013 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }  
-
-  .map20132 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }  
-
-  .map2014 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }  
-
-  .map20142 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }  
-
-  .map20143 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  } 
-
-  .map2016 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  } 
-  
-  .map2019 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  } 
-
-  .map20192 img{
-  width: 70%;
-  height: 70%;
-  vertical-align: middle;
-  object-fit: cover;
-  padding-bottom: 6rem;
-  }    */
