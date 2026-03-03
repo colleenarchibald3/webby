@@ -8,7 +8,7 @@
 
 .header{
   padding:30px;
-  background-color:rgb(212, 179, 145);
+  background-color:rgb(239, 225, 211);
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
   text-align: center;
   padding-top: 8rem;
@@ -102,6 +102,6 @@ p{
 }
 
 
-    body {
-    background-color: rgb(255, 242, 225);
-  }
+body {
+background-color: rgb(255, 242, 225);
+}
