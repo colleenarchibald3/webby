@@ -19,6 +19,8 @@ h1 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
   text-align: center;
   padding-top: 8rem;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .menu{
@@ -65,7 +67,7 @@ h1 {
 
 .gridcontainer div{
   position:relative;
-  padding: 10px;
+  padding: 0px;
   font-size: 12px;
   text-align: left;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -108,3 +110,12 @@ body {
 background-color: rgb(249, 248, 238);
 margin: 0px;
   }
+
+.page-border{
+    width: 80%px;
+    padding: 0px;
+    border: 2px solid rgb(60, 96, 29);
+    border-radius: 20px;
+    margin: 40px;
+    background-color: rgb(249, 245, 241);
+  }  
