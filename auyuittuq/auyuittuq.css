@@ -12,8 +12,8 @@
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
   text-align: center;
   padding-top: 8rem;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  /* border-top-left-radius: 20px;
+  border-top-right-radius: 20px; */
 }
 
 h1 {
@@ -113,13 +113,24 @@ p{
   }
 
 
+    .outer-page-border{
+    width: 80%px;
+    padding: px;
+    border: 1px solid rgb(0, 0, 0);
+    /* border-radius: 20px; */
+    margin: 15px;
+    background-color: rgb(249, 245, 241);
+    
+  }
+
+
     .page-border{
     width: 80%px;
     padding: 0px;
-    border: 2px solid rgb(58, 81, 196);
-    border-radius: 20px;
-    margin: 40px;
-    background-color: rgb(249, 245, 241);
+    border: 1px solid rgb(0, 0, 0);
+    /* border-radius: 20px; */
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
     
   }
 
