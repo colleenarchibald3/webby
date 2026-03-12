@@ -113,11 +113,10 @@ p{
   }
 
 
-    .outer-page-border{
+    /* .outer-page-border{
     width: 80%px;
     padding: px;
     border: 1px solid rgb(0, 0, 0);
-    /* border-radius: 20px; */
     margin: 15px;
     background-color: rgb(249, 245, 241);
     
@@ -128,9 +127,8 @@ p{
     width: 80%px;
     padding: 0px;
     border: 1px solid rgb(0, 0, 0);
-    /* border-radius: 20px; */
     margin: 30px;
     background-color: rgb(255, 255, 255);
     
-  }
+  } */
 
