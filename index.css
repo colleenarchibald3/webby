@@ -9,6 +9,7 @@
 .header{
   padding:30px;
   background-color:rgb(222, 230, 160);
+  /* border-radius: 20px; */
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
   text-align: center;
   padding-top: 8rem;
@@ -72,6 +73,15 @@ p{
 }
 
     body {
-    background-color: rgb(249, 245, 241);
+    background-color: rgb(248, 247, 245);
     margin: 0px;
+  }
+
+  .page-border{
+    width: 80%px;
+    padding: 0px;
+    border: 2px solid rgb(60, 96, 29);
+    border-radius: 20px;
+    margin: 40px;
+    background-color: rgb(249, 245, 241);
   }
