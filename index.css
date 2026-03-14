@@ -60,41 +60,33 @@ h1 {
   color: rgb(97, 145, 55);
 }
 
+/* 
 h2{
     color:rgb(60, 96, 29);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
     padding: 40px;
     
+} */
+
+.timeline-scan img{
+  margin: 0 auto;
+  max-width: 90%;
+  height:auto;
 }
 
-.blab{
-  display: grid;
-  gap: 20px;
-  padding: 60px 40px;
-  /* grid-template-columns: ; */
+.timeline-scan{
+  text-align:center;
+  margin:40px;
 }
 
-.map-image img{
-width: 90%;
-display: block;
-
-}
 
 p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 16px;
   padding: 15px;
-  border: 1.5px solid black
+  margin-top: 10px;
 }
-
-p2{
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 16px;
-  padding: 15px;
-   border: 1.5px solid black;
-}
-
 
 /* 
     .outer-page-border{
