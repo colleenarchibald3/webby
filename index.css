@@ -11,6 +11,8 @@ body{
   /* background-image: url("paper\ texture\ 4.avif") */
 }
 
+/* top nav bar */
+
 .above-header{
   display: flex;
   justify-content: space-between;
@@ -20,13 +22,6 @@ body{
   
 }
 
-.header{
-  padding:30px;
-  background-image: url("");
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-     border-bottom: 2px dashed rgb(96, 65, 29);
-}
-
 h2{
     color:rgb(96, 65, 29);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -34,18 +29,6 @@ h2{
     padding: 20px;
     padding-left:40px;
     
-}
-
-h1 {
-  color: rgb(96, 65, 29);
-   font-family: "bookmania", serif;
-   font-weight: 900;
-   font-style: normal;
-   font-size: 40px;
-   /* border-bottom: 2px dashed rgb(96, 65, 29); */
-   padding-top:80px;
-   padding-bottom:20px;
-   text-align:center;
 }
 
 .menu{
@@ -80,6 +63,27 @@ h1 {
   color: rgb(135, 93, 46);
 }
 
+/* header */
+
+.header{
+  padding:30px;
+  background-image: url("");
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+
+h1 {
+  color: rgb(96, 65, 29);
+   font-family: "bookmania", serif;
+   font-weight: 900;
+   font-style: normal;
+   font-size: 40px;
+   border-bottom: 2px solid rgb(96, 65, 29);
+   padding-top:80px;
+   padding-bottom:20px;
+   text-align:center;
+}
+
 
 .image-wrapper{
   display:flex;
@@ -101,6 +105,7 @@ h1 {
   height: auto;
   display: block;
   border: solid rgb(135, 93, 46);
+  padding: 10px;
 }
 
 
@@ -145,6 +150,10 @@ margin: 40px
   margin-bottom: 10px;
   text-align:center;
   color: rgb(60, 96, 29);
+}
+
+.footer{
+  text-decoration: none;
 }
 
 
