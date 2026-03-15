@@ -11,6 +11,11 @@ body{
   /* background-image: url("paper\ texture\ 4.avif") */
 }
 
+a {
+  text-decoration: none;
+  color: rgb(96, 65, 29);
+}
+
 /* top nav bar */
 
 .above-header{
@@ -123,30 +128,6 @@ h1 {
 }
 
 
-/* .image-wrapper{
-  display:flex;
-  justify-content:center;
-}
-
-
-.image-row{
-  display:grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 50px;
-  padding: 20px;
-  padding-top: 60px;
-  max-width: 1000px;
-}
-
-.image-row img{
-  width: 100%;
-  height: auto;
-  display: block;
-  border: solid rgb(135, 93, 46);
-  padding: 10px;
-} */
-
-
 .timeline-scan img{
   max-width: 70%;
   height:auto;
@@ -189,10 +170,6 @@ margin: 40px
   text-align:center;
 }
 
-a {
-  text-decoration: none;
-  color: rgb(96, 65, 29);
-}
 
 
 
@@ -319,4 +296,27 @@ h2{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
   text-align: center;
   padding-top: 8rem;
+} */
+
+/* .image-wrapper{
+  display:flex;
+  justify-content:center;
+}
+
+
+.image-row{
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  padding: 20px;
+  padding-top: 60px;
+  max-width: 1000px;
+}
+
+.image-row img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border: solid rgb(135, 93, 46);
+  padding: 10px;
 } */

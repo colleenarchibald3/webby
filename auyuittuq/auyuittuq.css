@@ -126,6 +126,7 @@ h3{
    font-weight: 700;
    font-style: normal;
     padding: 40px;
+    font-size: 25px;
 }
 
 
@@ -159,11 +160,12 @@ h3{
 }
 
 h4{
-  color:rgb(58, 81, 196);
+  border-top: 2px solid rgb(96, 65, 29);
+  padding-top:10px;
   font-family: "bookmania", serif;
   font-weight: 700;
   font-style: normal;
-  padding: 40px;
+  padding-left: 40px;
 }
 
 .type-cat p{
