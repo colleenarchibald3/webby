@@ -85,6 +85,18 @@ h1 {
    text-align:center;
 }
 
+
+.header p{
+     padding-top:10px;;
+     font-family: "bookmania", serif;
+     font-weight: 500;
+     font-style: normal;
+     color: rgb(99, 144, 45);
+
+}
+
+
+/* body */
 h3{
    color:rgb(99, 144, 45);
    font-family: "bookmania", serif;
@@ -213,6 +225,14 @@ padding: 40px;
 
 p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding-bottom: 50px;
+  text-align:center;
 }
 
 
