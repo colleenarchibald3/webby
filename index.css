@@ -24,6 +24,7 @@ body{
   padding:30px;
   background-image: url("");
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+     border-bottom: 2px dashed rgb(96, 65, 29);
 }
 
 h2{
@@ -41,7 +42,7 @@ h1 {
    font-weight: 900;
    font-style: normal;
    font-size: 40px;
-   /* border-bottom: 2px solid black; */
+   /* border-bottom: 2px dashed rgb(96, 65, 29); */
    padding-top:80px;
    padding-bottom:20px;
    text-align:center;
@@ -91,6 +92,7 @@ h1 {
   grid-template-columns: repeat(3, 1fr);
   gap: 50px;
   padding: 20px;
+  padding-top: 60px;
   max-width: 1000px;
 }
 
@@ -98,6 +100,7 @@ h1 {
   width: 100%;
   height: auto;
   display: block;
+  border: solid rgb(135, 93, 46);
 }
 
 
@@ -117,6 +120,8 @@ p{
   font-size: 18px;
   padding: 80px;
   margin-top: 10px;
+  /* max-width: 80%;
+  justify-content: center; */
 
 }
 
