@@ -84,19 +84,9 @@ h1 {
 }
 
 
-.header p{
-     padding-top:10px;;
-     font-family: "bookmania", serif;
-     font-weight: 500;
-     font-style: normal;
-     color: rgb(76, 111, 198);
-
-}
-
-
 /* body */
 h3{
-   color:rgb(76, 111, 198);
+   color:rgb(96, 65, 29);
    font-family: "bookmania", serif;
    font-weight: 700;
    font-style: normal;
@@ -105,6 +95,13 @@ h3{
 }
 
 .sources-maps{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding:40px;
+  text-align:center;
+  
+}
+
+.sources-info{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding:40px;
   text-align:center;
