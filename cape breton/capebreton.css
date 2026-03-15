@@ -135,6 +135,7 @@ h4{
   font-weight: 700;
   font-style: normal;
   padding-left: 40px;
+  /* color:rgb(96, 65, 29); */
 }
 
 .type-cat p{
@@ -221,7 +222,6 @@ padding: 40px;
   padding-top:10px;
   
 }
-
 
 p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
