@@ -81,16 +81,18 @@ h1 {
 }
 
 
-.image-row{
+.image-wrapper{
   display:flex;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  margin: 0 auto;
-  padding: 20px;
-  /* padding-left: 190px; */
+  justify-content:center;
+}
 
-  width: 100%;
-  margin: auto;
+
+.image-row{
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  padding: 20px;
+  max-width: 1000px;
 }
 
 .image-row img{
