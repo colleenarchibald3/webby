@@ -104,7 +104,12 @@ h3{
    font-family: "bookmania", serif;
    font-weight: 700;
    font-style: normal;
-   padding: 40px;
+    padding-top:40px;
+  padding-bottom: 20px;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
    font-size: 25px;
 }
 
@@ -133,6 +138,23 @@ padding:10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+@media (max-width: 700px){
+.park{
+  grid-template-columns: 1fr;
+  padding:0;
+}
+}
+
+@media (max-width: 600px){
+.park-image{
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
 }
 
 h4{
