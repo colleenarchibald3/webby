@@ -169,17 +169,6 @@ h4{
 .image-grid{
   display:grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  padding: 40px;
-}
-
-.image-grid a{
-  display:block;
-}
-
-.image-grid img{
-  display:grid;
-  grid-template-columns: repeat(2, 1fr);
   width:80%;
   margin-left:auto;
   margin-right:auto;
@@ -188,10 +177,31 @@ h4{
   padding-bottom:50px;
 }
 
+.image-grid a{
+  display:block;
+}
+
+.image-grid img{
+  width: 100%;
+  /* height: 100%; */
+  object-fit: cover;
+  display:block;
+  padding: 10px;
+  border: 2px solid rgb(96, 65, 29);
+}
+
 .image-grid p{
   padding-top:10px;
   
 }
+
+@media (max-width: 600px){
+.image-grid{
+  grid-template-columns: 1fr;
+  width:80%;
+}
+}
+
 /* 1960s image grid */
 
 .image-grid2{
@@ -222,35 +232,12 @@ h4{
   padding-top:10px;
   
 }
-/* 1990s image grid */
 
-.image-grid3{
-  display:grid;
-  grid-template-columns: repeat(2, 1fr);
+@media (max-width: 600px){
+.image-grid2{
+  grid-template-columns: 1fr;
   width:80%;
-  margin-left:auto;
-  margin-right:auto;
-  margin: 0 auto;
-  gap: 20px;
-  padding-bottom:50px;
 }
-
-.image-grid3 a{
-  display:block;
-}
-
-.image-grid3 img{
-  width: 100%;
-  /* height: 100%; */
-  object-fit: cover;
-  display:block;
-  padding: 10px;
-  border: 2px solid rgb(96, 65, 29);
-}
-
-.image-grid3 p{
-  padding-top:10px;
-  
 }
 
 p{

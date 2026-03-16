@@ -194,6 +194,14 @@ h4{
   padding-top:10px;
   
 }
+
+@media (max-width: 600px){
+.image-grid{
+  grid-template-columns: 1fr;
+  width:80%;
+}
+}
+
 /* 1960s image grid */
 
 .image-grid2{
@@ -224,6 +232,14 @@ h4{
   padding-top:10px;
   
 }
+
+@media (max-width: 600px){
+.image-grid2{
+  grid-template-columns: 1fr;
+  width:80%;
+}
+}
+
 /* 1990s image grid */
 
 .image-grid3{
@@ -253,6 +269,13 @@ h4{
 .image-grid3 p{
   padding-top:10px;
   
+}
+
+@media (max-width: 600px){
+.image-grid3{
+  grid-template-columns: 1fr;
+  width:80%;
+}
 }
 
 p{
