@@ -62,7 +62,7 @@ h2{
   padding:30px;
   background-image: url("");
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-  width:80%;
+  width:90%;
   margin-left:auto;
   margin-right:auto;
   margin: 0 auto;
@@ -139,7 +139,7 @@ h1 {
  opacity: 1;
 }
 
-@media (max-width: 800px){
+@media (max-width: 900px){
 .gridcontainer{
   grid-template-columns: repeat(2, 1fr);
   width:80%;
