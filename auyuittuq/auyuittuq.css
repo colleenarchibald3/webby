@@ -15,8 +15,6 @@ a {
     background-color:rgb(253, 250, 238);
   }
 
-
-
 /* top nav bar */
 
 .above-header{
@@ -82,9 +80,7 @@ h2{
      font-weight: 500;
      font-style: normal;
      color: rgb(58, 81, 196);
-
 }
-
 
 h1 {
   color: rgb(96, 65, 29);
@@ -92,12 +88,13 @@ h1 {
    font-weight: 900;
    font-style: normal;
    font-size: 40px;
-   /* border-bottom: 2px solid rgb(96, 65, 29); */
    padding-top:80px;
    padding-bottom:20px;
    text-align:center;
    border-bottom: 2px solid rgb(96, 65, 29);
 }
+
+/* image and text below header */
 
 .park{
   display: grid;

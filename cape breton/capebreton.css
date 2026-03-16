@@ -68,8 +68,10 @@ h2{
 
 .header{
   padding:30px;
-  background-image: url("");
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+     width: 90%;
+     margin-left:auto;
+     margin-right:auto;
+     margin: 0 auto;
 }
 
 
