@@ -178,12 +178,14 @@ h4{
 }
 
 .image-grid img{
-  width: 100%;
-  /* height: 100%; */
-  object-fit: cover;
-  display:block;
-  padding: 10px;
-  border: 2px solid rgb(96, 65, 29);
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
+  gap: 20px;
+  padding-bottom:50px;
 }
 
 .image-grid p{
@@ -195,8 +197,12 @@ h4{
 .image-grid2{
   display:grid;
   grid-template-columns: repeat(2, 1fr);
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
   gap: 20px;
-  padding: 40px;
+  padding-bottom:50px;
 }
 
 .image-grid2 a{
@@ -221,8 +227,12 @@ h4{
 .image-grid3{
   display:grid;
   grid-template-columns: repeat(2, 1fr);
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
   gap: 20px;
-  padding: 40px;
+  padding-bottom:50px;
 }
 
 .image-grid3 a{
