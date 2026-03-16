@@ -99,7 +99,7 @@ h1 {
 .park{
   display: grid;
   gap: 20px;
-  padding: 60px 40px;
+  /* padding: 60px 40px; */
   grid-template-columns: 1fr 1fr;
   width: 80%;
   margin-left:auto;
