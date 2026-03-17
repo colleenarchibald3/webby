@@ -72,14 +72,11 @@ h2{
 
 .header{
   padding:30px;
-  background-image: url("");
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-  width:90%;
-  margin: 0 auto;
-  margin-left:auto;
-  margin-right:auto;
+    width: 90%;
+     margin-left:auto;
+     margin-right:auto;
+     margin: 0 auto;
 }
-
 
 h1 {
   color: rgb(96, 65, 29);
@@ -87,10 +84,35 @@ h1 {
    font-weight: 900;
    font-style: normal;
    font-size: 40px;
-   border-bottom: 2px solid rgb(96, 65, 29);
+   border-bottom: 2px solid rgb(96, 65, 29);;
    padding-top:80px;
    padding-bottom:20px;
    text-align:center;
+   
+}
+
+.blab{
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  width: 80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
+  padding-top:40px;
+}
+
+.blab-image img{
+  width: 90%;
+  padding:10px;
+  border: 2px solid rgb(96, 65, 29);
+
+}
+
+.blab p{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  display: flex;
 }
 
 .image-row{
@@ -138,7 +160,7 @@ h1 {
 }
 
 
-p{
+.blab2 p{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 18px;
   padding: 80px;
@@ -149,12 +171,16 @@ p{
 
 }
 
-/* .park{
-  display: grid;
-  gap: 20px;
-  padding: 60px 40px;
-  grid-template-columns: 1fr 1fr;
-} */
+.blab3 p{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  padding: 80px;
+  width:80%;
+  margin: 0 auto;
+  margin-left:auto;
+  margin-right:auto;
+
+}
 
 .park-image img{
   width: 80%;
@@ -170,14 +196,6 @@ p{
   flex-direction: column;
   justify-content: center;
 }
-
-/* .text p{
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 16px;
-  margin-bottom: 10px;
-  text-align:center;
-} */
-
 .footer{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 16px;
