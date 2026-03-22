@@ -177,7 +177,7 @@ text-align:center;
 
 }
 
-/* 1960s image grid */
+/* 1930s image grid */
 .image-grid{
   display:grid;
   grid-template-columns: repeat(2, 1fr);
@@ -206,7 +206,15 @@ text-align:center;
   padding-top:10px;
   
 }
-/* 1990s image grid */
+
+@media (max-width: 600px){
+.image-grid{
+  grid-template-columns: 1fr;
+  width:80%;
+}
+}
+
+/* 1960s image grid */
 
 .image-grid2{
   display:grid;
@@ -235,6 +243,13 @@ text-align:center;
 .image-grid2 p{
   padding-top:10px;
   
+}
+
+@media (max-width: 600px){
+.image-grid2{
+  grid-template-columns: 1fr;
+  width:80%;
+}
 }
 
 /* 1990s image grid */
@@ -266,6 +281,13 @@ text-align:center;
 .image-grid3 p{
   padding-top:10px;
   
+}
+
+@media (max-width: 600px){
+.image-grid3{
+  grid-template-columns: 1fr;
+  width:80%;
+}
 }
 
 p{
