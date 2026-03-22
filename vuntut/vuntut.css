@@ -140,6 +140,20 @@ padding:10px;
   justify-content: center;
 }
 
+@media (max-width: 700px){
+.park{
+  grid-template-columns: 1fr;
+  justify-content: center;
+}
+}
+
+@media (max-width: 600px){
+.park-image{
+text-align:center;
+}
+}
+
+
 h4{
   border-top: 2px solid rgb(96, 65, 29);
   padding-top:50px;
