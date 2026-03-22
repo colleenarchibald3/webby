@@ -105,16 +105,32 @@ h1 {
 
 
 /* body */
+
 h3{
-   color: rgb(143, 48, 25);
-   font-family: "bookmania", serif;
-   font-weight: 700;
-   font-style: normal;
+  color:rgb(143, 48, 25);
+  font-family: "bookmania", serif;
+  font-weight: 700;
+  font-style: normal;
+  padding-top:40px;
+  padding-bottom: 20px;
   width:80%;
   margin-left:auto;
   margin-right:auto;
   margin: 0 auto;
-   font-size: 25px;
+  font-size: 25px;
+}
+
+h4{
+  padding-top:10px;
+  padding-bottom:10px;
+  font-family: "bookmania", serif;
+  font-weight: 700;
+  font-style: normal;
+
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 0 auto;
 }
 
 .park{
@@ -132,7 +148,7 @@ h3{
 .park-image img{
 width: 90%;
 padding:10px;
-  border: 2px solid rgb(96, 65, 29);
+border: 2px solid rgb(96, 65, 29);
 
 }
 
@@ -155,21 +171,6 @@ padding:10px;
 .park-image{
 text-align:center;
 }
-}
-
-
-h4{
-  border-top: 2px solid rgb(96, 65, 29);
-  padding-top:50px;
-  padding-bottom:10px;
-  font-family: "bookmania", serif;
-  font-weight: 700;
-  font-style: normal;
-
-  width:80%;
-  margin-left:auto;
-  margin-right:auto;
-  margin: 0 auto;
 }
 
 .type-cat p{
