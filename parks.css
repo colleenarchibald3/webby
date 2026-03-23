@@ -99,7 +99,7 @@ h1 {
 .gridcontainer div{
   position:relative;
   padding: 10px;
-  font-size: 12px;
+  font-size: 14px;
   text-align: left;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -139,14 +139,14 @@ h1 {
  opacity: 1;
 }
 
-@media (max-width: 900px){
+@media (max-width: 1000px){
 .gridcontainer{
   grid-template-columns: repeat(2, 1fr);
   width:80%;
 }
 }
 
-@media (max-width: 600px){
+@media (max-width: 650px){
 .gridcontainer{
   grid-template-columns: 1fr;
   width:80%;

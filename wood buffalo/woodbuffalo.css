@@ -126,6 +126,7 @@ h4{
   font-family: "bookmania", serif;
   font-weight: 700;
   font-style: normal;
+  color:rgb(96, 65, 29);
 
   width:80%;
   margin-left:auto;
@@ -160,14 +161,14 @@ h4{
   justify-content: center;
 }
 
-@media (max-width: 600px){
+@media (max-width: 750px){
 .park{
   grid-template-columns: 1fr;
   justify-content: center;
 }
 }
 
-@media (max-width: 600px){
+@media (max-width: 750px){
 .park-image{
 text-align:center;
 }
@@ -250,15 +251,16 @@ text-align:center;
   
 }
 
-p{
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
 @media (max-width: 600px){
 .image-grid2{
   grid-template-columns: 1fr;
   width:80%;
 }
+}
+
+p{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
 }
 
 .footer{
