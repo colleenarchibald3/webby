@@ -208,7 +208,7 @@ text-align:center;
   
 }
 
-@media (max-width: 600px){
+@media (max-width: 750px){
 .image-grid{
   grid-template-columns: 1fr;
   width:80%;
@@ -245,7 +245,7 @@ text-align:center;
   
 }
 
-@media (max-width: 600px){
+@media (max-width: 750px){
 .image-grid2{
   grid-template-columns: 1fr;
   width:80%;
@@ -282,7 +282,7 @@ text-align:center;
   
 }
 
-@media (max-width: 600px){
+@media (max-width: 750px){
 .image-grid3{
   grid-template-columns: 1fr;
   width:80%;
