@@ -146,7 +146,7 @@ h1 {
 }
 }
 
-@media (max-width: 650px){
+@media (max-width: 750px){
 .gridcontainer{
   grid-template-columns: 1fr;
   width:80%;
