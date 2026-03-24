@@ -165,7 +165,7 @@ text-align:center;
 }
 
 
-@media (max-width: 900px){
+@media (max-width: 1000px){
 .blab3{
   grid-template-columns: 1fr;
 }
