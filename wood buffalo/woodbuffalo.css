@@ -38,6 +38,10 @@ h2{
     padding-left:40px;
 }
 
+h2 a:hover{
+  opacity: 0.7;
+}
+
 .menu{
   font-size: 15px;
 
@@ -62,12 +66,13 @@ h2{
   text-decoration:none;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: rgb(96, 65, 29);
+  font-weight:bold;
   display:block;
 
 }
 
 .menu a:hover{
-  color: rgb(135, 93, 46);
+  opacity: 0.7;
 }
 
 /* header */
