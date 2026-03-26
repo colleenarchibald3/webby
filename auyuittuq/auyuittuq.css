@@ -75,11 +75,12 @@ h2{
 }
 
 .header p{
-
+     padding-top:10px;;
      font-family: "bookmania", serif;
      font-weight: 500;
      font-style: normal;
-     color: rgb(96, 65, 29);
+     color: rgb(66, 115, 193);
+
 }
 
 h1 {
@@ -136,7 +137,7 @@ text-align:center;
 }
 
 h3{
-  color:rgb(58, 81, 196);
+  color:rgb(66, 115, 193);
   font-family: "bookmania", serif;
   font-weight: 700;
   font-style: normal;

@@ -50,6 +50,7 @@ h2{
   padding-top: 0px;
   padding-bottom: 0px;
 
+
 }
 
 .menu li{
@@ -84,6 +85,8 @@ h2{
      font-weight: 500;
      font-style: normal;
      color: rgb(96, 65, 29);
+     padding-top:10px;
+
 }
 
 h1 {
