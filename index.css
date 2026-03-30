@@ -116,10 +116,10 @@ h1 {
   /* padding: 60px 40px; */
   grid-template-columns: 2fr 1fr;
   width: 80%;
-  margin-left:auto;
-  margin-right:auto;
   margin: 0 auto;
   padding-bottom:70px;
+
+  align-items:start;
 }
 
 .park-image img{
@@ -144,7 +144,7 @@ h3{
 
 .text{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  display: flex;
+  /* display: flex; */
   font-size:18px;
   flex-direction: column;
   justify-content: center;
@@ -163,15 +163,51 @@ text-align:center;
 }
 }
 
-/* .timeline-scan img{
-  max-width: 70%;
-  height:auto;
+
+/* Slideshow container */
+.slideshow-container {
+ max-width: 500px;
+ width: 100%;
+   padding:10px;
 }
 
-.timeline-scan{
-  text-align:center;
-  margin:40px;
-} */
+
+.mySlides img{
+  width: 100%;
+  height:auto;
+  display:block;
+  padding: 10px;
+  border: 2px solid rgb(96, 65, 29);
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
 
 
 .blab3 p{
