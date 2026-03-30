@@ -130,11 +130,12 @@ h1 {
 }
 
 h3{
-  color:rgb(66, 115, 193);
+  color:rgb(96, 65, 29);
   font-family: "bookmania", serif;
   font-weight: 700;
   font-style: normal;
   padding-top:40px;
+  padding-bottom: 60px;
   padding-bottom: 20px;
   margin-left:auto;
   margin-right:auto;

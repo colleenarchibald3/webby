@@ -104,7 +104,8 @@ h3{
    font-size: 25px;
 }
 
-.sources-maps{
+
+/* .sources-maps{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding:40px;
   text-align:center;
@@ -112,6 +113,13 @@ h3{
 }
 
 .sources-info{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding:40px;
+  text-align:center;
+  
+} */
+
+.sources{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding:40px;
   text-align:center;
