@@ -71,7 +71,8 @@ h2 a:hover{
 
 .header{
   padding:30px;
-  background-image: url("");
+  width: 90%;
+  margin: 0 auto;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 }
 

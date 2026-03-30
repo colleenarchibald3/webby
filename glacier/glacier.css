@@ -160,6 +160,18 @@ h4{
   justify-content: center;
 }
 
+h5{
+  color:rgb(76, 111, 198);
+  font-family: "bookmania", serif;
+  font-weight: 700;
+  font-style: normal;
+  padding-top:40px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  font-size: 25px;
+}
+
+
 @media (max-width: 750px){
 .park{
   grid-template-columns: 1fr;
