@@ -114,7 +114,7 @@ h1 {
   display: grid;
   gap: 20px;
   /* padding: 60px 40px; */
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr 1fr;
   width: 80%;
   margin: 0 auto;
   padding-bottom:70px;
