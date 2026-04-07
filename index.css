@@ -8,7 +8,6 @@
 
 body{
   background-color:rgb(253, 250, 238);
-  /* background-image: url("paper\ texture\ 4.avif") */
 }
 
 a {
@@ -236,43 +235,3 @@ text-align:center;
   padding-bottom: 50px;
   text-align:center;
 }
-
-/* .park-image{
-  position:relative;
-}
-
-.slide{
-  display:none;
-}
-
-.slide img{
-  width: 100%;
-}
-
-/* show 1st slide by default */
-
-/* .slide:first-child{
-display:block;
-}
-
-.slide:target{
-display:block;
-}
-
-.park-image:has(.slide:target) .slide:first-child{
-  display:none;
-} */
-
-
-/* .prev, .next{
-  position:absolute;
-  top:50%;
-  transform: translateY(-50%);
-  font-size: 2rem;
-  text-decoration:none;
-  color:white;
-  padding:10px;
-}
-
-.prev {left:10px;}
-.next {right:10px;} */
